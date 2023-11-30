@@ -1,0 +1,21 @@
+Start testing: Apr 22 14:00 CDT
+----------------------------------------------------------
+1/1 Testing: lab088
+1/1 Test: lab088
+Command: "/mnt/c/Users/shubh/OneDrive/Documents/CSCE 221 FR/CSCE-221H-S23-Lab/test/test/lab088"
+Directory: /mnt/c/Users/shubh/OneDrive/Documents/CSCE 221 FR/CSCE-221H-S23-Lab/test/test
+"lab088" start time: Apr 22 14:00 CDT
+Output:
+----------------------------------------------------------
+|V| = 1147018
+|E| = 1892310
+5418
+<end of output>
+Test time =  48.00 sec
+----------------------------------------------------------
+Test Passed.
+"lab088" end time: Apr 22 14:01 CDT
+"lab088" time elapsed: 00:00:48
+----------------------------------------------------------
+
+End testing: Apr 22 14:01 CDT

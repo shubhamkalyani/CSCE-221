@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab088.dir/lab088.cpp.o -o lab088 

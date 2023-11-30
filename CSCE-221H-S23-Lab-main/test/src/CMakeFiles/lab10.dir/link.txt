@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab10.dir/lab10.cpp.o -o lab10 
